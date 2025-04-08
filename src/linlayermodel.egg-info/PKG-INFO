@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: linlayermodel
+Version: 0.1.0
+Summary: A package to reproduce the results from Ahmed and Neelin 202x
+Author-email: Fiaz Ahmed <fiaz.500@gmail.com>
+Description-Content-Type: text/markdown
+Requires-Dist: requests

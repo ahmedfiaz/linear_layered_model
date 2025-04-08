@@ -1,0 +1,15 @@
+MANIFEST.in
+pyproject.toml
+src/linlayermodel/LLMParams.py
+src/linlayermodel/PlotSTM.py
+src/linlayermodel/QTCMParams.py
+src/linlayermodel/__init__.py
+src/linlayermodel/parameter_perturbation.py
+src/linlayermodel/thermodynamic_functions.py
+src/linlayermodel.egg-info/PKG-INFO
+src/linlayermodel.egg-info/SOURCES.txt
+src/linlayermodel.egg-info/dependency_links.txt
+src/linlayermodel.egg-info/requires.txt
+src/linlayermodel.egg-info/top_level.txt
+src/linlayermodel/data/par.out
+src/linlayermodel/data/twparmbeatmC2_mean_values.nc

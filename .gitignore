@@ -1,0 +1,17 @@
+files
+cache
+linear_layered_model.egg-info
+plots
+notebooks/Analyze_ERA5_omega_sst.ipynb
+notebooks/Cloud_parameterization.ipynb
+notebooks/Compute_STM_params.ipynb
+notebooks/Eigenvalue_problem.ipynb
+notebooks/Explore_LRFs.ipynb
+notebooks/Generate_input_SST.ipynb
+notebooks/get_mean_armtwp_profiles.ipynb
+notebooks/Radiative_parameterization.ipynb
+notebooks/TwoLayer_Analytic_expression.ipynb
+notebooks/Vertical_modes.ipynb
+__pycache__
+my_package.egg-info
+test

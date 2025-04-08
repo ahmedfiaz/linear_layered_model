@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "linlayermodel"
+version = "0.1.0"
+description = "A package to reproduce the results from Ahmed and Neelin 202x"
+readme = "README.md"
+authors = [{ name = "Fiaz Ahmed", email = "fiaz.500@gmail.com" }]
+license = { file = "LICENSE" }
+dependencies = [
+    "requests",  # Example dependency
+]
+
+[tool.setuptools]
+package-dir = { "" = "src" }  # Look for packages inside "src"
+
+[tool.setuptools.packages.find]
+where = ["src"]  # Find packages in "src"
+
+[tool.setuptools.package-data]
+"data" = ["*.nc"]
+

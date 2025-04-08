@@ -1,0 +1,3 @@
+include linlayermodel/data/*.nc
+include linlayermodel/data/*.out
+
